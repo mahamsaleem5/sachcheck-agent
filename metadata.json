@@ -1,0 +1,6 @@
+{
+  "name": "SachCheck",
+  "description": "An AI-powered job search safety agent that helps job seekers internationally verify whether a job offer is legitimate or a scam using real-time search and risk analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
