@@ -4,7 +4,6 @@ Track: Agents for Good
 Live App: https://sachcheck-225786514138.asia-southeast1.run.app/
 Built for: Kaggle 5-Day AI Agents Intensive Vibe Coding Capstone (with Google)
 
-
 The Problem
 
 Job scams are a global, growing problem. Fraudulent recruiters post fake job offers to steal money (through "registration fees" or "training fees") or harvest personal data (CNIC/ID numbers, bank details) from job seekers who are often in vulnerable financial situations and eager to start work quickly. Verifying a company's legitimacy manually means checking multiple sources — search engines, review sites, LinkedIn, official registries — a slow process most job seekers skip entirely under time pressure.
